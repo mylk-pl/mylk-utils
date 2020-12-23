@@ -9,7 +9,7 @@
 */
 
 namespace mylk {
-	struct Slotmap {
+	struct SlotMap {
 
 	};
 }
